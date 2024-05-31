@@ -1,6 +1,7 @@
 *
 !*/
 !*.md
+!*.svg
 !*.cpp
 !*.hpp
 !*.vert
